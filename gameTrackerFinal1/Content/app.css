@@ -1,0 +1,34 @@
+﻿
+.description{
+    font-size:larger;
+}
+
+body {
+    background-image: url(../img/header.jpg);
+     background-position: center;
+     color:white;
+}
+
+.intro {
+    font-size:30px;
+    text-align:center;
+    font-weight:bold;
+}
+
+.about {
+    text-align:center;
+    font-size:medium;
+}
+
+
+
+.container {
+    font-size:medium;
+    font-style:italic;
+}
+
+#logo {
+    height:55px;
+    width:120px;
+    margin-top:-20px;
+}
